@@ -1,0 +1,57 @@
+.one_text{
+    font-family: Philosopher;
+font-style: normal;
+font-weight: bold;
+font-size: 48.83px;
+line-height: 58px;
+/* or 118% */
+
+
+/* BLACK */
+
+color: #150C01;
+}
+.one_txt{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+margin-top: 42px;
+
+/* BLACK */
+
+color: #150C01;
+
+opacity: 0.7;
+}
+.one_bton{
+    margin-top: 50px;
+}
+.orange{
+    width: 158px;
+    height: 60px;
+    background: #DC780B;
+    border-radius: 5px;
+}
+.white{
+    width: 158px;
+    height: 60px;
+    background: white;
+    border-radius: 5px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.block{
+    width: 50%;
+}
+.one_img{
+    width: 100%;
+    height: 100%;
+}
+.bts{
+    margin-top: 174px;
+}

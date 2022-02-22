@@ -1,0 +1,32 @@
+.header{
+    margin-top: 30px;
+}
+
+.nav{
+    display: flex;
+    /* Перемещение в центр блоков */
+    align-items: center;
+    /* Перемещение блоков ровными отступами */
+    justify-content: space-between;
+}
+.ul{
+    /* Построить в ряд */
+    display: flex;
+    /* Отступы между блоками */
+    column-gap: 30px;
+    /* Перемещение в центр блоков */
+    align-items: center;
+    /* Он убирает черные точки */
+    list-style-type: none;
+}
+.link{
+    color: black;
+}
+.btn{
+    width: 155px;
+    height: 46px;
+/* PRIMARY */
+
+    background: #DC780B;
+    border-radius: 5px;
+}

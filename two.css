@@ -1,0 +1,94 @@
+.two_text{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #DC780B;
+margin-top: 223px;
+opacity: 0.7;
+}
+.two_texts{
+    font-family: Philosopher;
+font-style: normal;
+font-weight: bold;
+font-size: 31.25px;
+line-height: 35px;
+/* identical to box height */
+text-transform: capitalize;
+text-align: center;
+color: #150C01;
+margin-top: 7px;
+}
+.row{
+    display: flex;
+    margin-top: 44px;
+    justify-content: space-between;
+}
+.block{
+    text-align: center;
+}
+.two_icon-text{
+    margin-top: 33px;
+}
+.two_icon-texts{
+    margin-top: 15px;
+}
+.two_text-about{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    margin-top: 108px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    
+    color: #DC780B;
+}
+.two_text-food{
+    font-family: Philosopher;
+font-style: normal;
+font-weight: bold;
+font-size: 31.25px;
+line-height: 41px;
+/* or 130% */
+margin-top: 10px;
+
+color: #150C01;
+}
+.two_text-many{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+margin-top: 30px;
+
+color: #150C01;
+}
+.two_button-read{
+    width: 142px;
+height: 42px;
+background: #DC780B;
+border-radius: 5px;
+margin-top: 29px;
+}
+.two_row{
+    display: flex;
+    margin-top: 108px;
+    justify-content: space-between;
+}
+.two_block-img{
+    border-radius: 30px;
+}
